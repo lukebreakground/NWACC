@@ -31,6 +31,9 @@ ENV/
 *.swp
 *.swo
 
+# Environment variables
+.env
+
 # OS
 .DS_Store
 Thumbs.db 
