@@ -187,18 +187,42 @@ async def search_with_serper(session: aiohttp.ClientSession, place: str, serper_
 def is_government_website(url: str, title: str) -> bool:
     """
     Determine if a URL/title looks like an official government website.
+    Excludes state-level government websites.
     
     Args:
         url: Website URL
         title: Website title
         
     Returns:
-        True if it looks like a government website
+        True if it looks like a government website (excluding state websites)
     """
     url_lower = url.lower()
     title_lower = title.lower()
     
-    # Prefer .gov domains
+    # Define state government domains to exclude
+    state_domains = [
+        'alabama.gov', 'al.gov', 'alaska.gov', 'ak.gov', 'arizona.gov', 'az.gov',
+        'arkansas.gov', 'ar.gov', 'california.gov', 'ca.gov', 'colorado.gov', 'co.gov',
+        'connecticut.gov', 'ct.gov', 'delaware.gov', 'de.gov', 'florida.gov', 'fl.gov',
+        'georgia.gov', 'ga.gov', 'hawaii.gov', 'hi.gov', 'idaho.gov', 'id.gov',
+        'illinois.gov', 'il.gov', 'indiana.gov', 'in.gov', 'iowa.gov', 'ia.gov',
+        'kansas.gov', 'ks.gov', 'kentucky.gov', 'ky.gov', 'louisiana.gov', 'la.gov',
+        'maine.gov', 'me.gov', 'maryland.gov', 'md.gov', 'massachusetts.gov', 'ma.gov',
+        'michigan.gov', 'mi.gov', 'minnesota.gov', 'mn.gov', 'mississippi.gov', 'ms.gov',
+        'missouri.gov', 'mo.gov', 'montana.gov', 'mt.gov', 'nebraska.gov', 'ne.gov',
+        'nevada.gov', 'nv.gov', 'nh.gov', 'nj.gov', 'newmexico.gov', 'nm.gov',
+        'ny.gov', 'nc.gov', 'nd.gov', 'ohio.gov', 'oh.gov', 'oklahoma.gov', 'ok.gov',
+        'oregon.gov', 'or.gov', 'pa.gov', 'ri.gov', 'sc.gov', 'sd.gov', 'tn.gov',
+        'texas.gov', 'tx.gov', 'utah.gov', 'ut.gov', 'vermont.gov', 'vt.gov',
+        'virginia.gov', 'va.gov', 'wa.gov', 'wv.gov', 'wisconsin.gov', 'wi.gov',
+        'wyoming.gov', 'wy.gov','usa.gov'
+    ]
+    
+    # Skip state government websites
+    if any(state_domain in url_lower for state_domain in state_domains):
+        return False
+    
+    # Prefer .gov domains (but not state domains)
     if '.gov' in url_lower:
         return True
     
@@ -248,8 +272,8 @@ async def find_government_website_parallel(session: aiohttp.ClientSession, place
     if not search_results:
         return place, "none"
     
-    # Analyze first 5 results for government websites
-    for result in search_results[:5]:
+    # Analyze first 10 results for government websites
+    for result in search_results[:10]:
         url = result.get('link', '')
         title = result.get('title', '')
         

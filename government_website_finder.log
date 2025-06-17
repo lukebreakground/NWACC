@@ -2264,3 +2264,569 @@
 2025-06-16 20:17:57,422 - INFO - Skipping 22958 already processed places
 2025-06-16 20:17:57,422 - INFO - Processing 0 remaining places
 2025-06-16 20:17:57,422 - INFO - All places have already been processed!
+2025-06-16 20:37:46,803 - INFO - 🚀 Starting optimized parallel government website finder
+2025-06-16 20:37:46,809 - INFO - Loaded 22958 places from places.csv
+2025-06-16 20:37:46,815 - INFO - Found 15745 already processed places in websites.csv
+2025-06-16 20:37:46,816 - INFO - Skipping 15761 already processed places
+2025-06-16 20:37:46,816 - INFO - Processing 7197 remaining places
+2025-06-16 20:37:46,816 - INFO - Processing 7197 places
+2025-06-16 20:37:46,822 - INFO - Processing batch 1/144 (50 places) - Concurrency: 15
+2025-06-16 20:37:52,510 - INFO - 🚀 Increased concurrency: 15 → 18
+2025-06-16 20:37:52,511 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:37:52,511 - INFO - Batch 1: 49/50 found (98.0%) | Batch rate: 8.8 req/s | Overall rate: 8.8 req/s | Concurrency: 18, Success: 100.0%, Rate limits: 0
+2025-06-16 20:37:52,613 - INFO - Processing batch 2/144 (50 places) - Concurrency: 18
+2025-06-16 20:37:58,639 - INFO - 🚀 Increased concurrency: 18 → 21
+2025-06-16 20:37:58,640 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:37:58,641 - INFO - Batch 2: 50/50 found (100.0%) | Batch rate: 8.3 req/s | Overall rate: 8.5 req/s | Concurrency: 21, Success: 100.0%, Rate limits: 0
+2025-06-16 20:37:58,742 - INFO - Processing batch 3/144 (50 places) - Concurrency: 21
+2025-06-16 20:38:01,573 - INFO - 🚀 Increased concurrency: 21 → 25
+2025-06-16 20:38:01,574 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:38:01,574 - INFO - Batch 3: 50/50 found (100.0%) | Batch rate: 17.7 req/s | Overall rate: 10.2 req/s | Concurrency: 25, Success: 100.0%, Rate limits: 0
+2025-06-16 20:38:01,676 - INFO - Processing batch 4/144 (50 places) - Concurrency: 25
+2025-06-16 20:38:03,913 - INFO - 🚀 Increased concurrency: 25 → 30
+2025-06-16 20:38:03,914 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:38:03,914 - INFO - Batch 4: 50/50 found (100.0%) | Batch rate: 22.3 req/s | Overall rate: 11.7 req/s | Concurrency: 30, Success: 100.0%, Rate limits: 0
+2025-06-16 20:38:04,015 - INFO - Processing batch 5/144 (50 places) - Concurrency: 30
+2025-06-16 20:38:05,895 - INFO - 🚀 Increased concurrency: 30 → 36
+2025-06-16 20:38:05,896 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:38:05,896 - INFO - Batch 5: 50/50 found (100.0%) | Batch rate: 26.6 req/s | Overall rate: 13.1 req/s | Concurrency: 36, Success: 100.0%, Rate limits: 0
+2025-06-16 20:38:05,997 - INFO - Processing batch 6/144 (50 places) - Concurrency: 36
+2025-06-16 20:38:08,151 - INFO - 🚀 Increased concurrency: 36 → 43
+2025-06-16 20:38:08,152 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:38:08,152 - INFO - Batch 6: 48/50 found (96.0%) | Batch rate: 23.2 req/s | Overall rate: 14.1 req/s | Concurrency: 43, Success: 100.0%, Rate limits: 0
+2025-06-16 20:38:08,253 - INFO - Processing batch 7/144 (50 places) - Concurrency: 43
+2025-06-16 20:38:10,087 - INFO - 🚀 Increased concurrency: 43 → 50
+2025-06-16 20:38:10,087 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:38:10,087 - INFO - Batch 7: 50/50 found (100.0%) | Batch rate: 27.3 req/s | Overall rate: 15.0 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:38:10,188 - INFO - Processing batch 8/144 (50 places) - Concurrency: 50
+2025-06-16 20:38:11,896 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:38:11,896 - INFO - Batch 8: 47/50 found (94.0%) | Batch rate: 29.3 req/s | Overall rate: 16.0 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:38:11,997 - INFO - Processing batch 9/144 (50 places) - Concurrency: 50
+2025-06-16 20:38:15,250 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:38:15,250 - INFO - Batch 9: 48/50 found (96.0%) | Batch rate: 15.4 req/s | Overall rate: 15.8 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:38:15,352 - INFO - Processing batch 10/144 (50 places) - Concurrency: 50
+2025-06-16 20:38:16,652 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:38:16,653 - INFO - Batch 10: 48/50 found (96.0%) | Batch rate: 38.4 req/s | Overall rate: 16.8 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:38:16,754 - INFO - Processing batch 11/144 (50 places) - Concurrency: 50
+2025-06-16 20:38:18,686 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:38:18,686 - INFO - Batch 11: 47/50 found (94.0%) | Batch rate: 25.9 req/s | Overall rate: 17.3 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:38:18,788 - INFO - Processing batch 12/144 (50 places) - Concurrency: 50
+2025-06-16 20:38:20,886 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:38:20,886 - INFO - Batch 12: 49/50 found (98.0%) | Batch rate: 23.8 req/s | Overall rate: 17.6 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:38:20,987 - INFO - Processing batch 13/144 (50 places) - Concurrency: 50
+2025-06-16 20:38:23,989 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:38:23,990 - INFO - Batch 13: 48/50 found (96.0%) | Batch rate: 16.7 req/s | Overall rate: 17.5 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:38:24,091 - INFO - Processing batch 14/144 (50 places) - Concurrency: 50
+2025-06-16 20:38:26,755 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:38:26,755 - INFO - Batch 14: 48/50 found (96.0%) | Batch rate: 18.8 req/s | Overall rate: 17.5 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:38:26,857 - INFO - Processing batch 15/144 (50 places) - Concurrency: 50
+2025-06-16 20:38:28,438 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:38:28,438 - INFO - Batch 15: 48/50 found (96.0%) | Batch rate: 31.6 req/s | Overall rate: 18.0 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:38:28,539 - INFO - Processing batch 16/144 (50 places) - Concurrency: 50
+2025-06-16 20:38:30,257 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:38:30,258 - INFO - Batch 16: 48/50 found (96.0%) | Batch rate: 29.1 req/s | Overall rate: 18.4 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:38:30,359 - INFO - Processing batch 17/144 (50 places) - Concurrency: 50
+2025-06-16 20:38:33,011 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:38:33,011 - INFO - Batch 17: 49/50 found (98.0%) | Batch rate: 18.9 req/s | Overall rate: 18.4 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:38:33,112 - INFO - Processing batch 18/144 (50 places) - Concurrency: 50
+2025-06-16 20:38:34,652 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:38:34,653 - INFO - Batch 18: 48/50 found (96.0%) | Batch rate: 32.5 req/s | Overall rate: 18.8 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:38:34,754 - INFO - Processing batch 19/144 (50 places) - Concurrency: 50
+2025-06-16 20:38:36,671 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:38:36,671 - INFO - Batch 19: 49/50 found (98.0%) | Batch rate: 26.1 req/s | Overall rate: 19.1 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:38:36,772 - INFO - Processing batch 20/144 (50 places) - Concurrency: 50
+2025-06-16 20:38:40,436 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:38:40,437 - INFO - Batch 20: 48/50 found (96.0%) | Batch rate: 13.6 req/s | Overall rate: 18.7 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:38:40,539 - INFO - Processing batch 21/144 (50 places) - Concurrency: 50
+2025-06-16 20:38:42,431 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:38:42,431 - INFO - Batch 21: 47/50 found (94.0%) | Batch rate: 26.4 req/s | Overall rate: 18.9 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:38:42,532 - INFO - Processing batch 22/144 (50 places) - Concurrency: 50
+2025-06-16 20:38:44,735 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:38:44,735 - INFO - Batch 22: 46/50 found (92.0%) | Batch rate: 22.7 req/s | Overall rate: 19.0 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:38:44,836 - INFO - Processing batch 23/144 (50 places) - Concurrency: 50
+2025-06-16 20:38:46,388 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:38:46,388 - INFO - Batch 23: 48/50 found (96.0%) | Batch rate: 32.2 req/s | Overall rate: 19.3 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:38:46,489 - INFO - Processing batch 24/144 (50 places) - Concurrency: 50
+2025-06-16 20:38:48,224 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:38:48,224 - INFO - Batch 24: 44/50 found (88.0%) | Batch rate: 28.8 req/s | Overall rate: 19.5 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:38:48,325 - INFO - Processing batch 25/144 (50 places) - Concurrency: 50
+2025-06-16 20:38:50,271 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:38:50,271 - INFO - Batch 25: 49/50 found (98.0%) | Batch rate: 25.7 req/s | Overall rate: 19.7 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:38:50,372 - INFO - Processing batch 26/144 (50 places) - Concurrency: 50
+2025-06-16 20:38:52,555 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:38:52,555 - INFO - Batch 26: 45/50 found (90.0%) | Batch rate: 22.9 req/s | Overall rate: 19.8 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:38:52,656 - INFO - Processing batch 27/144 (50 places) - Concurrency: 50
+2025-06-16 20:38:54,254 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:38:54,254 - INFO - Batch 27: 47/50 found (94.0%) | Batch rate: 31.3 req/s | Overall rate: 20.0 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:38:54,355 - INFO - Processing batch 28/144 (50 places) - Concurrency: 50
+2025-06-16 20:38:56,438 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:38:56,438 - INFO - Batch 28: 44/50 found (88.0%) | Batch rate: 24.0 req/s | Overall rate: 20.1 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:38:56,538 - INFO - Processing batch 29/144 (50 places) - Concurrency: 50
+2025-06-16 20:38:57,857 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:38:57,857 - INFO - Batch 29: 46/50 found (92.0%) | Batch rate: 37.9 req/s | Overall rate: 20.4 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:38:57,958 - INFO - Processing batch 30/144 (50 places) - Concurrency: 50
+2025-06-16 20:39:00,254 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:39:00,254 - INFO - Batch 30: 45/50 found (90.0%) | Batch rate: 21.8 req/s | Overall rate: 20.4 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:39:00,356 - INFO - Processing batch 31/144 (50 places) - Concurrency: 50
+2025-06-16 20:39:02,397 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:39:02,397 - INFO - Batch 31: 44/50 found (88.0%) | Batch rate: 24.5 req/s | Overall rate: 20.5 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:39:02,498 - INFO - Processing batch 32/144 (50 places) - Concurrency: 50
+2025-06-16 20:39:04,076 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:39:04,076 - INFO - Batch 32: 46/50 found (92.0%) | Batch rate: 31.7 req/s | Overall rate: 20.7 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:39:04,178 - INFO - Processing batch 33/144 (50 places) - Concurrency: 50
+2025-06-16 20:39:06,136 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:39:06,136 - INFO - Batch 33: 48/50 found (96.0%) | Batch rate: 25.5 req/s | Overall rate: 20.8 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:39:06,237 - INFO - Processing batch 34/144 (50 places) - Concurrency: 50
+2025-06-16 20:39:07,958 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:39:07,958 - INFO - Batch 34: 46/50 found (92.0%) | Batch rate: 29.1 req/s | Overall rate: 21.0 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:39:08,059 - INFO - Processing batch 35/144 (50 places) - Concurrency: 50
+2025-06-16 20:39:09,923 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:39:09,923 - INFO - Batch 35: 46/50 found (92.0%) | Batch rate: 26.8 req/s | Overall rate: 21.1 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:39:10,024 - INFO - Processing batch 36/144 (50 places) - Concurrency: 50
+2025-06-16 20:39:11,563 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:39:11,564 - INFO - Batch 36: 48/50 found (96.0%) | Batch rate: 32.5 req/s | Overall rate: 21.2 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:39:11,665 - INFO - Processing batch 37/144 (50 places) - Concurrency: 50
+2025-06-16 20:39:13,195 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:39:13,196 - INFO - Batch 37: 49/50 found (98.0%) | Batch rate: 32.7 req/s | Overall rate: 21.4 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:39:13,297 - INFO - Processing batch 38/144 (50 places) - Concurrency: 50
+2025-06-16 20:39:14,888 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:39:14,888 - INFO - Batch 38: 41/50 found (82.0%) | Batch rate: 31.4 req/s | Overall rate: 21.6 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:39:14,989 - INFO - Processing batch 39/144 (50 places) - Concurrency: 50
+2025-06-16 20:39:16,659 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:39:16,659 - INFO - Batch 39: 43/50 found (86.0%) | Batch rate: 29.9 req/s | Overall rate: 21.7 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:39:16,760 - INFO - Processing batch 40/144 (50 places) - Concurrency: 50
+2025-06-16 20:39:18,324 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:39:18,324 - INFO - Batch 40: 43/50 found (86.0%) | Batch rate: 32.0 req/s | Overall rate: 21.9 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:39:18,425 - INFO - Processing batch 41/144 (50 places) - Concurrency: 50
+2025-06-16 20:39:20,077 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:39:20,077 - INFO - Batch 41: 40/50 found (80.0%) | Batch rate: 30.3 req/s | Overall rate: 22.0 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:39:20,178 - INFO - Processing batch 42/144 (50 places) - Concurrency: 50
+2025-06-16 20:39:22,421 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:39:22,421 - INFO - Batch 42: 47/50 found (94.0%) | Batch rate: 22.3 req/s | Overall rate: 22.0 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:39:22,522 - INFO - Processing batch 43/144 (50 places) - Concurrency: 50
+2025-06-16 20:39:24,261 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:39:24,261 - INFO - Batch 43: 46/50 found (92.0%) | Batch rate: 28.7 req/s | Overall rate: 22.1 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:39:24,362 - INFO - Processing batch 44/144 (50 places) - Concurrency: 50
+2025-06-16 20:39:25,832 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:39:25,832 - INFO - Batch 44: 47/50 found (94.0%) | Batch rate: 34.0 req/s | Overall rate: 22.2 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:39:25,933 - INFO - Processing batch 45/144 (50 places) - Concurrency: 50
+2025-06-16 20:39:27,635 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:39:27,635 - INFO - Batch 45: 46/50 found (92.0%) | Batch rate: 29.4 req/s | Overall rate: 22.3 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:39:27,736 - INFO - Processing batch 46/144 (50 places) - Concurrency: 50
+2025-06-16 20:39:29,549 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:39:29,550 - INFO - Batch 46: 46/50 found (92.0%) | Batch rate: 27.6 req/s | Overall rate: 22.4 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:39:29,651 - INFO - Processing batch 47/144 (50 places) - Concurrency: 50
+2025-06-16 20:39:31,637 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:39:31,637 - INFO - Batch 47: 47/50 found (94.0%) | Batch rate: 25.2 req/s | Overall rate: 22.4 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:39:31,738 - INFO - Processing batch 48/144 (50 places) - Concurrency: 50
+2025-06-16 20:39:33,852 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:39:33,852 - INFO - Batch 48: 45/50 found (90.0%) | Batch rate: 23.6 req/s | Overall rate: 22.4 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:39:33,954 - INFO - Processing batch 49/144 (50 places) - Concurrency: 50
+2025-06-16 20:39:35,627 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:39:35,627 - INFO - Batch 49: 46/50 found (92.0%) | Batch rate: 29.9 req/s | Overall rate: 22.5 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:39:35,729 - INFO - Processing batch 50/144 (50 places) - Concurrency: 50
+2025-06-16 20:39:37,230 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:39:37,230 - INFO - Batch 50: 44/50 found (88.0%) | Batch rate: 33.3 req/s | Overall rate: 22.6 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:39:37,332 - INFO - Processing batch 51/144 (50 places) - Concurrency: 50
+2025-06-16 20:39:38,936 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:39:38,937 - INFO - Batch 51: 45/50 found (90.0%) | Batch rate: 31.2 req/s | Overall rate: 22.7 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:39:39,038 - INFO - Processing batch 52/144 (50 places) - Concurrency: 50
+2025-06-16 20:39:40,857 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:39:40,857 - INFO - Batch 52: 49/50 found (98.0%) | Batch rate: 27.5 req/s | Overall rate: 22.8 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:39:40,958 - INFO - Processing batch 53/144 (50 places) - Concurrency: 50
+2025-06-16 20:39:43,717 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:39:43,717 - INFO - Batch 53: 45/50 found (90.0%) | Batch rate: 18.1 req/s | Overall rate: 22.7 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:39:43,818 - INFO - Processing batch 54/144 (50 places) - Concurrency: 50
+2025-06-16 20:39:46,646 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:39:46,646 - INFO - Batch 54: 46/50 found (92.0%) | Batch rate: 17.7 req/s | Overall rate: 22.5 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:39:46,748 - INFO - Processing batch 55/144 (50 places) - Concurrency: 50
+2025-06-16 20:39:49,078 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:39:49,078 - INFO - Batch 55: 46/50 found (92.0%) | Batch rate: 21.5 req/s | Overall rate: 22.5 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:39:49,179 - INFO - Processing batch 56/144 (50 places) - Concurrency: 50
+2025-06-16 20:39:50,948 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:39:50,948 - INFO - Batch 56: 43/50 found (86.0%) | Batch rate: 28.3 req/s | Overall rate: 22.6 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:39:51,050 - INFO - Processing batch 57/144 (50 places) - Concurrency: 50
+2025-06-16 20:39:53,453 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:39:53,453 - INFO - Batch 57: 47/50 found (94.0%) | Batch rate: 20.8 req/s | Overall rate: 22.5 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:39:53,555 - INFO - Processing batch 58/144 (50 places) - Concurrency: 50
+2025-06-16 20:39:55,547 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:39:55,548 - INFO - Batch 58: 49/50 found (98.0%) | Batch rate: 25.1 req/s | Overall rate: 22.5 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:39:55,649 - INFO - Processing batch 59/144 (50 places) - Concurrency: 50
+2025-06-16 20:39:57,447 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:39:57,447 - INFO - Batch 59: 48/50 found (96.0%) | Batch rate: 27.8 req/s | Overall rate: 22.6 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:39:57,548 - INFO - Processing batch 60/144 (50 places) - Concurrency: 50
+2025-06-16 20:40:02,099 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:40:02,100 - INFO - Batch 60: 47/50 found (94.0%) | Batch rate: 11.0 req/s | Overall rate: 22.2 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:40:02,201 - INFO - Processing batch 61/144 (50 places) - Concurrency: 50
+2025-06-16 20:40:04,300 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:40:04,300 - INFO - Batch 61: 45/50 found (90.0%) | Batch rate: 23.8 req/s | Overall rate: 22.2 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:40:04,401 - INFO - Processing batch 62/144 (50 places) - Concurrency: 50
+2025-06-16 20:40:06,303 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:40:06,303 - INFO - Batch 62: 42/50 found (84.0%) | Batch rate: 26.3 req/s | Overall rate: 22.2 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:40:06,404 - INFO - Processing batch 63/144 (50 places) - Concurrency: 50
+2025-06-16 20:40:07,835 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:40:07,835 - INFO - Batch 63: 47/50 found (94.0%) | Batch rate: 34.9 req/s | Overall rate: 22.3 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:40:07,936 - INFO - Processing batch 64/144 (50 places) - Concurrency: 50
+2025-06-16 20:40:09,452 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:40:09,452 - INFO - Batch 64: 50/50 found (100.0%) | Batch rate: 33.0 req/s | Overall rate: 22.4 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:40:09,553 - INFO - Processing batch 65/144 (50 places) - Concurrency: 50
+2025-06-16 20:40:10,967 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:40:10,967 - INFO - Batch 65: 49/50 found (98.0%) | Batch rate: 35.4 req/s | Overall rate: 22.5 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:40:11,069 - INFO - Processing batch 66/144 (50 places) - Concurrency: 50
+2025-06-16 20:40:12,525 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:40:12,525 - INFO - Batch 66: 49/50 found (98.0%) | Batch rate: 34.3 req/s | Overall rate: 22.6 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:40:12,626 - INFO - Processing batch 67/144 (50 places) - Concurrency: 50
+2025-06-16 20:40:14,599 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:40:14,599 - INFO - Batch 67: 45/50 found (90.0%) | Batch rate: 25.3 req/s | Overall rate: 22.7 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:40:14,700 - INFO - Processing batch 68/144 (50 places) - Concurrency: 50
+2025-06-16 20:40:16,282 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:40:16,282 - INFO - Batch 68: 44/50 found (88.0%) | Batch rate: 31.6 req/s | Overall rate: 22.7 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:40:16,383 - INFO - Processing batch 69/144 (50 places) - Concurrency: 50
+2025-06-16 20:40:18,534 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:40:18,535 - INFO - Batch 69: 46/50 found (92.0%) | Batch rate: 23.2 req/s | Overall rate: 22.7 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:40:18,636 - INFO - Processing batch 70/144 (50 places) - Concurrency: 50
+2025-06-16 20:40:20,217 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:40:20,217 - INFO - Batch 70: 48/50 found (96.0%) | Batch rate: 31.6 req/s | Overall rate: 22.8 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:40:20,318 - INFO - Processing batch 71/144 (50 places) - Concurrency: 50
+2025-06-16 20:40:21,984 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:40:21,984 - INFO - Batch 71: 47/50 found (94.0%) | Batch rate: 30.0 req/s | Overall rate: 22.9 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:40:22,085 - INFO - Processing batch 72/144 (50 places) - Concurrency: 50
+2025-06-16 20:40:23,347 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:40:23,347 - INFO - Batch 72: 43/50 found (86.0%) | Batch rate: 39.6 req/s | Overall rate: 23.0 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:40:23,448 - INFO - Processing batch 73/144 (50 places) - Concurrency: 50
+2025-06-16 20:40:24,797 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:40:24,797 - INFO - Batch 73: 46/50 found (92.0%) | Batch rate: 37.1 req/s | Overall rate: 23.1 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:40:24,899 - INFO - Processing batch 74/144 (50 places) - Concurrency: 50
+2025-06-16 20:40:28,055 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:40:28,055 - INFO - Batch 74: 45/50 found (90.0%) | Batch rate: 15.8 req/s | Overall rate: 22.9 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:40:28,155 - INFO - Processing batch 75/144 (50 places) - Concurrency: 50
+2025-06-16 20:40:29,509 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:40:29,509 - INFO - Batch 75: 44/50 found (88.0%) | Batch rate: 36.9 req/s | Overall rate: 23.1 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:40:29,610 - INFO - Processing batch 76/144 (50 places) - Concurrency: 50
+2025-06-16 20:40:31,023 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:40:31,023 - INFO - Batch 76: 46/50 found (92.0%) | Batch rate: 35.4 req/s | Overall rate: 23.1 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:40:31,124 - INFO - Processing batch 77/144 (50 places) - Concurrency: 50
+2025-06-16 20:40:34,097 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:40:34,097 - INFO - Batch 77: 48/50 found (96.0%) | Batch rate: 16.8 req/s | Overall rate: 23.0 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:40:34,198 - INFO - Processing batch 78/144 (50 places) - Concurrency: 50
+2025-06-16 20:40:37,171 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:40:37,172 - INFO - Batch 78: 44/50 found (88.0%) | Batch rate: 16.8 req/s | Overall rate: 22.9 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:40:37,273 - INFO - Processing batch 79/144 (50 places) - Concurrency: 50
+2025-06-16 20:40:39,123 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:40:39,123 - INFO - Batch 79: 47/50 found (94.0%) | Batch rate: 27.0 req/s | Overall rate: 22.9 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:40:39,224 - INFO - Processing batch 80/144 (50 places) - Concurrency: 50
+2025-06-16 20:40:41,523 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:40:41,523 - INFO - Batch 80: 47/50 found (94.0%) | Batch rate: 21.7 req/s | Overall rate: 22.9 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:40:41,624 - INFO - Processing batch 81/144 (50 places) - Concurrency: 50
+2025-06-16 20:40:43,132 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:40:43,132 - INFO - Batch 81: 47/50 found (94.0%) | Batch rate: 33.2 req/s | Overall rate: 23.0 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:40:43,233 - INFO - Processing batch 82/144 (50 places) - Concurrency: 50
+2025-06-16 20:40:45,727 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:40:45,727 - INFO - Batch 82: 45/50 found (90.0%) | Batch rate: 20.1 req/s | Overall rate: 22.9 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:40:45,828 - INFO - Processing batch 83/144 (50 places) - Concurrency: 50
+2025-06-16 20:40:48,607 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:40:48,607 - INFO - Batch 83: 46/50 found (92.0%) | Batch rate: 18.0 req/s | Overall rate: 22.8 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:40:48,709 - INFO - Processing batch 84/144 (50 places) - Concurrency: 50
+2025-06-16 20:40:50,637 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:40:50,637 - INFO - Batch 84: 48/50 found (96.0%) | Batch rate: 25.9 req/s | Overall rate: 22.8 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:40:50,738 - INFO - Processing batch 85/144 (50 places) - Concurrency: 50
+2025-06-16 20:40:53,069 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:40:53,069 - INFO - Batch 85: 44/50 found (88.0%) | Batch rate: 21.4 req/s | Overall rate: 22.8 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:40:53,171 - INFO - Processing batch 86/144 (50 places) - Concurrency: 50
+2025-06-16 20:40:54,782 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:40:54,782 - INFO - Batch 86: 47/50 found (94.0%) | Batch rate: 31.0 req/s | Overall rate: 22.9 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:40:54,884 - INFO - Processing batch 87/144 (50 places) - Concurrency: 50
+2025-06-16 20:40:57,927 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:40:57,927 - INFO - Batch 87: 46/50 found (92.0%) | Batch rate: 16.4 req/s | Overall rate: 22.8 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:40:58,029 - INFO - Processing batch 88/144 (50 places) - Concurrency: 50
+2025-06-16 20:41:00,336 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:41:00,337 - INFO - Batch 88: 47/50 found (94.0%) | Batch rate: 21.7 req/s | Overall rate: 22.7 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:41:00,437 - INFO - Processing batch 89/144 (50 places) - Concurrency: 50
+2025-06-16 20:41:03,563 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:41:03,564 - INFO - Batch 89: 50/50 found (100.0%) | Batch rate: 16.0 req/s | Overall rate: 22.6 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:41:03,666 - INFO - Processing batch 90/144 (50 places) - Concurrency: 50
+2025-06-16 20:41:05,432 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:41:05,432 - INFO - Batch 90: 49/50 found (98.0%) | Batch rate: 28.3 req/s | Overall rate: 22.7 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:41:05,533 - INFO - Processing batch 91/144 (50 places) - Concurrency: 50
+2025-06-16 20:41:07,336 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:41:07,337 - INFO - Batch 91: 47/50 found (94.0%) | Batch rate: 27.7 req/s | Overall rate: 22.7 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:41:07,437 - INFO - Processing batch 92/144 (50 places) - Concurrency: 50
+2025-06-16 20:41:08,873 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:41:08,873 - INFO - Batch 92: 47/50 found (94.0%) | Batch rate: 34.8 req/s | Overall rate: 22.8 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:41:08,975 - INFO - Processing batch 93/144 (50 places) - Concurrency: 50
+2025-06-16 20:41:12,969 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:41:12,969 - INFO - Batch 93: 47/50 found (94.0%) | Batch rate: 12.5 req/s | Overall rate: 22.6 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:41:13,072 - INFO - Processing batch 94/144 (50 places) - Concurrency: 50
+2025-06-16 20:41:14,846 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:41:14,846 - INFO - Batch 94: 44/50 found (88.0%) | Batch rate: 28.2 req/s | Overall rate: 22.6 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:41:14,947 - INFO - Processing batch 95/144 (50 places) - Concurrency: 50
+2025-06-16 20:41:17,407 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:41:17,407 - INFO - Batch 95: 47/50 found (94.0%) | Batch rate: 20.3 req/s | Overall rate: 22.6 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:41:17,509 - INFO - Processing batch 96/144 (50 places) - Concurrency: 50
+2025-06-16 20:41:18,966 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:41:18,966 - INFO - Batch 96: 47/50 found (94.0%) | Batch rate: 34.3 req/s | Overall rate: 22.6 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:41:19,068 - INFO - Processing batch 97/144 (50 places) - Concurrency: 50
+2025-06-16 20:41:21,714 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:41:21,714 - INFO - Batch 97: 49/50 found (98.0%) | Batch rate: 18.9 req/s | Overall rate: 22.6 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:41:21,816 - INFO - Processing batch 98/144 (50 places) - Concurrency: 50
+2025-06-16 20:41:23,403 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:41:23,403 - INFO - Batch 98: 49/50 found (98.0%) | Batch rate: 31.5 req/s | Overall rate: 22.6 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:41:23,504 - INFO - Processing batch 99/144 (50 places) - Concurrency: 50
+2025-06-16 20:41:25,797 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:41:25,797 - INFO - Batch 99: 46/50 found (92.0%) | Batch rate: 21.8 req/s | Overall rate: 22.6 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:41:25,898 - INFO - Processing batch 100/144 (50 places) - Concurrency: 50
+2025-06-16 20:41:28,067 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:41:28,067 - INFO - Batch 100: 46/50 found (92.0%) | Batch rate: 23.1 req/s | Overall rate: 22.6 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:41:28,168 - INFO - Processing batch 101/144 (50 places) - Concurrency: 50
+2025-06-16 20:41:29,925 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:41:29,925 - INFO - Batch 101: 47/50 found (94.0%) | Batch rate: 28.5 req/s | Overall rate: 22.6 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:41:30,026 - INFO - Processing batch 102/144 (50 places) - Concurrency: 50
+2025-06-16 20:41:31,716 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:41:31,716 - INFO - Batch 102: 46/50 found (92.0%) | Batch rate: 29.6 req/s | Overall rate: 22.7 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:41:31,817 - INFO - Processing batch 103/144 (50 places) - Concurrency: 50
+2025-06-16 20:41:34,509 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:41:34,510 - INFO - Batch 103: 47/50 found (94.0%) | Batch rate: 18.6 req/s | Overall rate: 22.6 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:41:34,611 - INFO - Processing batch 104/144 (50 places) - Concurrency: 50
+2025-06-16 20:41:36,541 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:41:36,541 - INFO - Batch 104: 46/50 found (92.0%) | Batch rate: 25.9 req/s | Overall rate: 22.6 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:41:36,642 - INFO - Processing batch 105/144 (50 places) - Concurrency: 50
+2025-06-16 20:41:38,477 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:41:38,478 - INFO - Batch 105: 46/50 found (92.0%) | Batch rate: 27.2 req/s | Overall rate: 22.7 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:41:38,579 - INFO - Processing batch 106/144 (50 places) - Concurrency: 50
+2025-06-16 20:41:39,942 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:41:39,942 - INFO - Batch 106: 48/50 found (96.0%) | Batch rate: 36.7 req/s | Overall rate: 22.7 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:41:40,044 - INFO - Processing batch 107/144 (50 places) - Concurrency: 50
+2025-06-16 20:41:42,792 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:41:42,793 - INFO - Batch 107: 46/50 found (92.0%) | Batch rate: 18.2 req/s | Overall rate: 22.7 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:41:42,894 - INFO - Processing batch 108/144 (50 places) - Concurrency: 50
+2025-06-16 20:41:44,411 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:41:44,411 - INFO - Batch 108: 49/50 found (98.0%) | Batch rate: 32.9 req/s | Overall rate: 22.7 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:41:44,513 - INFO - Processing batch 109/144 (50 places) - Concurrency: 50
+2025-06-16 20:41:46,558 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:41:46,559 - INFO - Batch 109: 48/50 found (96.0%) | Batch rate: 24.4 req/s | Overall rate: 22.7 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:41:46,660 - INFO - Processing batch 110/144 (50 places) - Concurrency: 50
+2025-06-16 20:41:48,424 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:41:48,425 - INFO - Batch 110: 49/50 found (98.0%) | Batch rate: 28.3 req/s | Overall rate: 22.8 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:41:48,526 - INFO - Processing batch 111/144 (50 places) - Concurrency: 50
+2025-06-16 20:41:51,723 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:41:51,723 - INFO - Batch 111: 47/50 found (94.0%) | Batch rate: 15.6 req/s | Overall rate: 22.7 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:41:51,826 - INFO - Processing batch 112/144 (50 places) - Concurrency: 50
+2025-06-16 20:41:53,376 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:41:53,377 - INFO - Batch 112: 48/50 found (96.0%) | Batch rate: 32.2 req/s | Overall rate: 22.7 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:41:53,479 - INFO - Processing batch 113/144 (50 places) - Concurrency: 50
+2025-06-16 20:41:54,896 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:41:54,897 - INFO - Batch 113: 43/50 found (86.0%) | Batch rate: 35.3 req/s | Overall rate: 22.8 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:41:54,998 - INFO - Processing batch 114/144 (50 places) - Concurrency: 50
+2025-06-16 20:41:56,445 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:41:56,445 - INFO - Batch 114: 49/50 found (98.0%) | Batch rate: 34.6 req/s | Overall rate: 22.8 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:41:56,547 - INFO - Processing batch 115/144 (50 places) - Concurrency: 50
+2025-06-16 20:41:58,222 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:41:58,222 - INFO - Batch 115: 45/50 found (90.0%) | Batch rate: 29.9 req/s | Overall rate: 22.9 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:41:58,324 - INFO - Processing batch 116/144 (50 places) - Concurrency: 50
+2025-06-16 20:41:59,790 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:41:59,791 - INFO - Batch 116: 48/50 found (96.0%) | Batch rate: 34.1 req/s | Overall rate: 22.9 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:41:59,892 - INFO - Processing batch 117/144 (50 places) - Concurrency: 50
+2025-06-16 20:42:01,464 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:42:01,464 - INFO - Batch 117: 49/50 found (98.0%) | Batch rate: 31.8 req/s | Overall rate: 23.0 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:42:01,565 - INFO - Processing batch 118/144 (50 places) - Concurrency: 50
+2025-06-16 20:42:03,072 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:42:03,073 - INFO - Batch 118: 49/50 found (98.0%) | Batch rate: 33.2 req/s | Overall rate: 23.0 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:42:03,174 - INFO - Processing batch 119/144 (50 places) - Concurrency: 50
+2025-06-16 20:42:05,718 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:42:05,719 - INFO - Batch 119: 47/50 found (94.0%) | Batch rate: 19.6 req/s | Overall rate: 23.0 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:42:05,820 - INFO - Processing batch 120/144 (50 places) - Concurrency: 50
+2025-06-16 20:42:07,842 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:42:07,843 - INFO - Batch 120: 44/50 found (88.0%) | Batch rate: 24.7 req/s | Overall rate: 23.0 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:42:07,944 - INFO - Processing batch 121/144 (50 places) - Concurrency: 50
+2025-06-16 20:42:10,225 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:42:10,226 - INFO - Batch 121: 49/50 found (98.0%) | Batch rate: 21.9 req/s | Overall rate: 23.0 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:42:10,327 - INFO - Processing batch 122/144 (50 places) - Concurrency: 50
+2025-06-16 20:42:13,093 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:42:13,093 - INFO - Batch 122: 50/50 found (100.0%) | Batch rate: 18.1 req/s | Overall rate: 22.9 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:42:13,195 - INFO - Processing batch 123/144 (50 places) - Concurrency: 50
+2025-06-16 20:42:14,603 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:42:14,604 - INFO - Batch 123: 50/50 found (100.0%) | Batch rate: 35.5 req/s | Overall rate: 23.0 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:42:14,705 - INFO - Processing batch 124/144 (50 places) - Concurrency: 50
+2025-06-16 20:42:16,366 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:42:16,366 - INFO - Batch 124: 45/50 found (90.0%) | Batch rate: 30.1 req/s | Overall rate: 23.0 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:42:16,468 - INFO - Processing batch 125/144 (50 places) - Concurrency: 50
+2025-06-16 20:42:18,912 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:42:18,912 - INFO - Batch 125: 47/50 found (94.0%) | Batch rate: 20.5 req/s | Overall rate: 23.0 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:42:19,014 - INFO - Processing batch 126/144 (50 places) - Concurrency: 50
+2025-06-16 20:42:20,581 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:42:20,581 - INFO - Batch 126: 47/50 found (94.0%) | Batch rate: 31.9 req/s | Overall rate: 23.0 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:42:20,683 - INFO - Processing batch 127/144 (50 places) - Concurrency: 50
+2025-06-16 20:42:22,411 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:42:22,411 - INFO - Batch 127: 48/50 found (96.0%) | Batch rate: 28.9 req/s | Overall rate: 23.0 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:42:22,513 - INFO - Processing batch 128/144 (50 places) - Concurrency: 50
+2025-06-16 20:42:24,390 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:42:24,391 - INFO - Batch 128: 47/50 found (94.0%) | Batch rate: 26.6 req/s | Overall rate: 23.1 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:42:24,493 - INFO - Processing batch 129/144 (50 places) - Concurrency: 50
+2025-06-16 20:42:26,303 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:42:26,303 - INFO - Batch 129: 46/50 found (92.0%) | Batch rate: 27.6 req/s | Overall rate: 23.1 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:42:26,405 - INFO - Processing batch 130/144 (50 places) - Concurrency: 50
+2025-06-16 20:42:28,108 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:42:28,108 - INFO - Batch 130: 47/50 found (94.0%) | Batch rate: 29.4 req/s | Overall rate: 23.1 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:42:28,210 - INFO - Processing batch 131/144 (50 places) - Concurrency: 50
+2025-06-16 20:42:30,095 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:42:30,095 - INFO - Batch 131: 44/50 found (88.0%) | Batch rate: 26.5 req/s | Overall rate: 23.1 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:42:30,196 - INFO - Processing batch 132/144 (50 places) - Concurrency: 50
+2025-06-16 20:42:31,917 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:42:31,919 - INFO - Batch 132: 47/50 found (94.0%) | Batch rate: 29.0 req/s | Overall rate: 23.2 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:42:32,020 - INFO - Processing batch 133/144 (50 places) - Concurrency: 50
+2025-06-16 20:42:35,002 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:42:35,002 - INFO - Batch 133: 47/50 found (94.0%) | Batch rate: 16.8 req/s | Overall rate: 23.1 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:42:35,104 - INFO - Processing batch 134/144 (50 places) - Concurrency: 50
+2025-06-16 20:42:37,154 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:42:37,154 - INFO - Batch 134: 48/50 found (96.0%) | Batch rate: 24.4 req/s | Overall rate: 23.1 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:42:37,256 - INFO - Processing batch 135/144 (50 places) - Concurrency: 50
+2025-06-16 20:42:38,688 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:42:38,688 - INFO - Batch 135: 47/50 found (94.0%) | Batch rate: 34.9 req/s | Overall rate: 23.1 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:42:38,789 - INFO - Processing batch 136/144 (50 places) - Concurrency: 50
+2025-06-16 20:42:40,942 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:42:40,943 - INFO - Batch 136: 48/50 found (96.0%) | Batch rate: 23.2 req/s | Overall rate: 23.1 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:42:41,045 - INFO - Processing batch 137/144 (50 places) - Concurrency: 50
+2025-06-16 20:42:43,133 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:42:43,134 - INFO - Batch 137: 45/50 found (90.0%) | Batch rate: 23.9 req/s | Overall rate: 23.1 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:42:43,236 - INFO - Processing batch 138/144 (50 places) - Concurrency: 50
+2025-06-16 20:42:44,664 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:42:44,665 - INFO - Batch 138: 44/50 found (88.0%) | Batch rate: 35.0 req/s | Overall rate: 23.2 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:42:44,766 - INFO - Processing batch 139/144 (50 places) - Concurrency: 50
+2025-06-16 20:42:46,443 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:42:46,443 - INFO - Batch 139: 47/50 found (94.0%) | Batch rate: 29.8 req/s | Overall rate: 23.2 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:42:46,545 - INFO - Processing batch 140/144 (50 places) - Concurrency: 50
+2025-06-16 20:42:47,977 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:42:47,977 - INFO - Batch 140: 45/50 found (90.0%) | Batch rate: 34.9 req/s | Overall rate: 23.2 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:42:48,079 - INFO - Processing batch 141/144 (50 places) - Concurrency: 50
+2025-06-16 20:42:50,758 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:42:50,759 - INFO - Batch 141: 46/50 found (92.0%) | Batch rate: 18.7 req/s | Overall rate: 23.2 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:42:50,860 - INFO - Processing batch 142/144 (50 places) - Concurrency: 50
+2025-06-16 20:42:52,303 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:42:52,304 - INFO - Batch 142: 44/50 found (88.0%) | Batch rate: 34.6 req/s | Overall rate: 23.2 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:42:52,407 - INFO - Processing batch 143/144 (50 places) - Concurrency: 50
+2025-06-16 20:42:53,740 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:42:53,740 - INFO - Batch 143: 47/50 found (94.0%) | Batch rate: 37.5 req/s | Overall rate: 23.3 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:42:53,842 - INFO - Processing batch 144/144 (47 places) - Concurrency: 50
+2025-06-16 20:42:55,107 - INFO - Results appended to websites.csv (47 entries)
+2025-06-16 20:42:55,107 - INFO - Batch 144: 39/47 found (83.0%) | Batch rate: 37.1 req/s | Overall rate: 23.3 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:42:55,112 - INFO - ✅ Processing completed!
+2025-06-16 20:42:55,112 - INFO - Total processed: 7197 places
+2025-06-16 20:42:55,112 - INFO - Websites found: 6721 (93.4%)
+2025-06-16 20:42:55,112 - INFO - Overall rate: 23.3 requests/second
+2025-06-16 20:42:55,112 - INFO - Total time: 308.3 seconds
+2025-06-16 20:42:55,112 - INFO - Results written to websites.csv
+2025-06-16 20:43:28,783 - INFO - 🚀 Starting optimized parallel government website finder
+2025-06-16 20:43:28,789 - INFO - Loaded 22958 places from places.csv
+2025-06-16 20:43:28,797 - INFO - Found 21340 already processed places in websites.csv
+2025-06-16 20:43:28,798 - INFO - Skipping 21365 already processed places
+2025-06-16 20:43:28,798 - INFO - Processing 1593 remaining places
+2025-06-16 20:43:28,798 - INFO - Processing 1593 places
+2025-06-16 20:43:28,806 - INFO - Processing batch 1/32 (50 places) - Concurrency: 15
+2025-06-16 20:43:33,839 - INFO - 🚀 Increased concurrency: 15 → 18
+2025-06-16 20:43:33,841 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:43:33,841 - INFO - Batch 1: 49/50 found (98.0%) | Batch rate: 9.9 req/s | Overall rate: 9.9 req/s | Concurrency: 18, Success: 100.0%, Rate limits: 0
+2025-06-16 20:43:33,944 - INFO - Processing batch 2/32 (50 places) - Concurrency: 18
+2025-06-16 20:43:36,719 - INFO - 🚀 Increased concurrency: 18 → 21
+2025-06-16 20:43:36,721 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:43:36,721 - INFO - Batch 2: 50/50 found (100.0%) | Batch rate: 18.0 req/s | Overall rate: 12.6 req/s | Concurrency: 21, Success: 100.0%, Rate limits: 0
+2025-06-16 20:43:36,822 - INFO - Processing batch 3/32 (50 places) - Concurrency: 21
+2025-06-16 20:43:39,603 - INFO - 🚀 Increased concurrency: 21 → 25
+2025-06-16 20:43:39,605 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:43:39,605 - INFO - Batch 3: 46/50 found (92.0%) | Batch rate: 18.0 req/s | Overall rate: 13.9 req/s | Concurrency: 25, Success: 100.0%, Rate limits: 0
+2025-06-16 20:43:39,706 - INFO - Processing batch 4/32 (50 places) - Concurrency: 25
+2025-06-16 20:43:42,938 - INFO - 🚀 Increased concurrency: 25 → 30
+2025-06-16 20:43:42,939 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:43:42,939 - INFO - Batch 4: 43/50 found (86.0%) | Batch rate: 15.5 req/s | Overall rate: 14.2 req/s | Concurrency: 30, Success: 100.0%, Rate limits: 0
+2025-06-16 20:43:43,041 - INFO - Processing batch 5/32 (50 places) - Concurrency: 30
+2025-06-16 20:43:46,507 - INFO - 🚀 Increased concurrency: 30 → 36
+2025-06-16 20:43:46,508 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:43:46,508 - INFO - Batch 5: 45/50 found (90.0%) | Batch rate: 14.4 req/s | Overall rate: 14.1 req/s | Concurrency: 36, Success: 100.0%, Rate limits: 0
+2025-06-16 20:43:46,609 - INFO - Processing batch 6/32 (50 places) - Concurrency: 36
+2025-06-16 20:43:48,900 - INFO - 🚀 Increased concurrency: 36 → 43
+2025-06-16 20:43:48,902 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:43:48,902 - INFO - Batch 6: 41/50 found (82.0%) | Batch rate: 21.8 req/s | Overall rate: 14.9 req/s | Concurrency: 43, Success: 100.0%, Rate limits: 0
+2025-06-16 20:43:49,004 - INFO - Processing batch 7/32 (50 places) - Concurrency: 43
+2025-06-16 20:43:50,781 - INFO - 🚀 Increased concurrency: 43 → 50
+2025-06-16 20:43:50,782 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:43:50,782 - INFO - Batch 7: 37/50 found (74.0%) | Batch rate: 28.1 req/s | Overall rate: 15.9 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:43:50,884 - INFO - Processing batch 8/32 (50 places) - Concurrency: 50
+2025-06-16 20:43:53,236 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:43:53,237 - INFO - Batch 8: 34/50 found (68.0%) | Batch rate: 21.3 req/s | Overall rate: 16.4 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:43:53,338 - INFO - Processing batch 9/32 (50 places) - Concurrency: 50
+2025-06-16 20:43:55,387 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:43:55,388 - INFO - Batch 9: 36/50 found (72.0%) | Batch rate: 24.4 req/s | Overall rate: 16.9 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:43:55,489 - INFO - Processing batch 10/32 (50 places) - Concurrency: 50
+2025-06-16 20:43:57,232 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:43:57,233 - INFO - Batch 10: 40/50 found (80.0%) | Batch rate: 28.7 req/s | Overall rate: 17.6 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:43:57,334 - INFO - Processing batch 11/32 (50 places) - Concurrency: 50
+2025-06-16 20:43:59,037 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:43:59,037 - INFO - Batch 11: 24/50 found (48.0%) | Batch rate: 29.4 req/s | Overall rate: 18.2 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:43:59,139 - INFO - Processing batch 12/32 (50 places) - Concurrency: 50
+2025-06-16 20:44:00,816 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:44:00,816 - INFO - Batch 12: 34/50 found (68.0%) | Batch rate: 29.8 req/s | Overall rate: 18.7 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:44:00,918 - INFO - Processing batch 13/32 (50 places) - Concurrency: 50
+2025-06-16 20:44:02,222 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:44:02,222 - INFO - Batch 13: 31/50 found (62.0%) | Batch rate: 38.3 req/s | Overall rate: 19.5 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:44:02,324 - INFO - Processing batch 14/32 (50 places) - Concurrency: 50
+2025-06-16 20:44:05,525 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:44:05,525 - INFO - Batch 14: 35/50 found (70.0%) | Batch rate: 15.6 req/s | Overall rate: 19.1 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:44:05,627 - INFO - Processing batch 15/32 (50 places) - Concurrency: 50
+2025-06-16 20:44:07,155 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:44:07,156 - INFO - Batch 15: 33/50 found (66.0%) | Batch rate: 32.7 req/s | Overall rate: 19.6 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:44:07,257 - INFO - Processing batch 16/32 (50 places) - Concurrency: 50
+2025-06-16 20:44:09,931 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:44:09,932 - INFO - Batch 16: 35/50 found (70.0%) | Batch rate: 18.7 req/s | Overall rate: 19.5 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:44:10,033 - INFO - Processing batch 17/32 (50 places) - Concurrency: 50
+2025-06-16 20:44:12,330 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:44:12,331 - INFO - Batch 17: 31/50 found (62.0%) | Batch rate: 21.8 req/s | Overall rate: 19.5 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:44:12,433 - INFO - Processing batch 18/32 (50 places) - Concurrency: 50
+2025-06-16 20:44:14,333 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:44:14,333 - INFO - Batch 18: 23/50 found (46.0%) | Batch rate: 26.3 req/s | Overall rate: 19.8 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:44:14,435 - INFO - Processing batch 19/32 (50 places) - Concurrency: 50
+2025-06-16 20:44:18,633 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:44:18,634 - INFO - Batch 19: 28/50 found (56.0%) | Batch rate: 11.9 req/s | Overall rate: 19.1 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:44:18,735 - INFO - Processing batch 20/32 (50 places) - Concurrency: 50
+2025-06-16 20:44:21,556 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:44:21,556 - INFO - Batch 20: 33/50 found (66.0%) | Batch rate: 17.7 req/s | Overall rate: 19.0 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:44:21,658 - INFO - Processing batch 21/32 (50 places) - Concurrency: 50
+2025-06-16 20:44:23,344 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:44:23,344 - INFO - Batch 21: 33/50 found (66.0%) | Batch rate: 29.6 req/s | Overall rate: 19.3 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:44:23,446 - INFO - Processing batch 22/32 (50 places) - Concurrency: 50
+2025-06-16 20:44:25,743 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:44:25,744 - INFO - Batch 22: 30/50 found (60.0%) | Batch rate: 21.8 req/s | Overall rate: 19.3 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:44:25,846 - INFO - Processing batch 23/32 (50 places) - Concurrency: 50
+2025-06-16 20:44:27,359 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:44:27,359 - INFO - Batch 23: 34/50 found (68.0%) | Batch rate: 33.0 req/s | Overall rate: 19.6 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:44:27,461 - INFO - Processing batch 24/32 (50 places) - Concurrency: 50
+2025-06-16 20:44:29,909 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:44:29,909 - INFO - Batch 24: 36/50 found (72.0%) | Batch rate: 20.4 req/s | Overall rate: 19.6 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:44:30,011 - INFO - Processing batch 25/32 (50 places) - Concurrency: 50
+2025-06-16 20:44:31,496 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:44:31,496 - INFO - Batch 25: 43/50 found (86.0%) | Batch rate: 33.7 req/s | Overall rate: 19.9 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:44:31,598 - INFO - Processing batch 26/32 (50 places) - Concurrency: 50
+2025-06-16 20:44:33,558 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:44:33,559 - INFO - Batch 26: 45/50 found (90.0%) | Batch rate: 25.5 req/s | Overall rate: 20.1 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:44:33,660 - INFO - Processing batch 27/32 (50 places) - Concurrency: 50
+2025-06-16 20:44:34,962 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:44:34,962 - INFO - Batch 27: 43/50 found (86.0%) | Batch rate: 38.4 req/s | Overall rate: 20.4 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:44:35,064 - INFO - Processing batch 28/32 (50 places) - Concurrency: 50
+2025-06-16 20:44:36,274 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:44:36,275 - INFO - Batch 28: 41/50 found (82.0%) | Batch rate: 41.3 req/s | Overall rate: 20.8 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:44:36,377 - INFO - Processing batch 29/32 (50 places) - Concurrency: 50
+2025-06-16 20:44:37,969 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:44:37,969 - INFO - Batch 29: 44/50 found (88.0%) | Batch rate: 31.4 req/s | Overall rate: 21.0 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:44:38,070 - INFO - Processing batch 30/32 (50 places) - Concurrency: 50
+2025-06-16 20:44:39,828 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:44:39,828 - INFO - Batch 30: 41/50 found (82.0%) | Batch rate: 28.4 req/s | Overall rate: 21.1 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:44:39,930 - INFO - Processing batch 31/32 (50 places) - Concurrency: 50
+2025-06-16 20:44:41,786 - INFO - Results appended to websites.csv (50 entries)
+2025-06-16 20:44:41,787 - INFO - Batch 31: 38/50 found (76.0%) | Batch rate: 26.9 req/s | Overall rate: 21.2 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:44:41,888 - INFO - Processing batch 32/32 (43 places) - Concurrency: 50
+2025-06-16 20:44:43,236 - INFO - Results appended to websites.csv (43 entries)
+2025-06-16 20:44:43,237 - INFO - Batch 32: 32/43 found (74.4%) | Batch rate: 31.9 req/s | Overall rate: 21.4 req/s | Concurrency: 50, Success: 100.0%, Rate limits: 0
+2025-06-16 20:44:43,244 - INFO - ✅ Processing completed!
+2025-06-16 20:44:43,244 - INFO - Total processed: 1593 places
+2025-06-16 20:44:43,244 - INFO - Websites found: 1188 (74.6%)
+2025-06-16 20:44:43,244 - INFO - Overall rate: 21.4 requests/second
+2025-06-16 20:44:43,244 - INFO - Total time: 74.4 seconds
+2025-06-16 20:44:43,244 - INFO - Results written to websites.csv
